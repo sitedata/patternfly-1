@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "commander": "^2.13.0",
+    "commander": "^2.20.3",
     "inflection": "^1.12.0",
     "minimist": "^1.2.3",
     "scaffold-helper": "^1.0.0"
